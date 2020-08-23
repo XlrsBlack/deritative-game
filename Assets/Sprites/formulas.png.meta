@@ -1,0 +1,2599 @@
+fileFormatVersion: 2
+guid: c6b105baae693a841a124f8abef19ffe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6204717489338392970
+    second: formulas_0
+  - first:
+      213: 6619778282771849184
+    second: formulas_1
+  - first:
+      213: 7956690877699451044
+    second: formulas_2
+  - first:
+      213: 7382845306064543816
+    second: formulas_3
+  - first:
+      213: 6493572347696153216
+    second: formulas_4
+  - first:
+      213: -8233375999979478230
+    second: formulas_5
+  - first:
+      213: -2300131694695254065
+    second: formulas_6
+  - first:
+      213: -5150673440248525962
+    second: formulas_7
+  - first:
+      213: 7313639445998740433
+    second: formulas_8
+  - first:
+      213: 9212225756727784030
+    second: formulas_9
+  - first:
+      213: -3212724866998763608
+    second: formulas_10
+  - first:
+      213: -7809846064710959475
+    second: formulas_11
+  - first:
+      213: 2091314623391848496
+    second: formulas_12
+  - first:
+      213: -39888842962480643
+    second: formulas_13
+  - first:
+      213: 5466267064668274007
+    second: formulas_14
+  - first:
+      213: 5053567682006336456
+    second: formulas_15
+  - first:
+      213: -1448208554555742867
+    second: formulas_16
+  - first:
+      213: 5725858517046183894
+    second: formulas_17
+  - first:
+      213: 3268716056428072896
+    second: formulas_18
+  - first:
+      213: -8613700921891674877
+    second: formulas_19
+  - first:
+      213: 6008964767180830045
+    second: formulas_20
+  - first:
+      213: -6926110179871378494
+    second: formulas_21
+  - first:
+      213: -4601713614351888137
+    second: formulas_22
+  - first:
+      213: -6333330689174484345
+    second: formulas_23
+  - first:
+      213: -8406816793013795140
+    second: formulas_24
+  - first:
+      213: -2493146153973593555
+    second: formulas_25
+  - first:
+      213: -832575046102432842
+    second: formulas_26
+  - first:
+      213: -2424281498886417666
+    second: formulas_27
+  - first:
+      213: 3435341017741192544
+    second: formulas_28
+  - first:
+      213: 4631826768213920888
+    second: formulas_29
+  - first:
+      213: 6540634312818852022
+    second: formulas_30
+  - first:
+      213: 7380273720396008539
+    second: formulas_31
+  - first:
+      213: 8093350465211268798
+    second: formulas_32
+  - first:
+      213: 3636311298433549983
+    second: formulas_33
+  - first:
+      213: 7757646827027328523
+    second: formulas_34
+  - first:
+      213: -4629004485734749266
+    second: formulas_35
+  - first:
+      213: 2846121565798272599
+    second: formulas_36
+  - first:
+      213: -2361124126272395920
+    second: formulas_37
+  - first:
+      213: -8173809436961844498
+    second: formulas_38
+  - first:
+      213: -7327766160522246502
+    second: formulas_39
+  - first:
+      213: -5011984300213053675
+    second: formulas_40
+  - first:
+      213: -3141529429125133639
+    second: formulas_41
+  - first:
+      213: -8955327019605282645
+    second: formulas_42
+  - first:
+      213: 3452088371997392212
+    second: formulas_43
+  - first:
+      213: 8763369118992893379
+    second: formulas_44
+  - first:
+      213: -3721406275137157733
+    second: formulas_45
+  - first:
+      213: -2399159265749560144
+    second: formulas_46
+  - first:
+      213: 7584718220252688219
+    second: formulas_47
+  - first:
+      213: 3063013897029815668
+    second: formulas_48
+  - first:
+      213: 1432599192705931501
+    second: formulas_49
+  - first:
+      213: 1154698692893159792
+    second: formulas_50
+  - first:
+      213: -6009075491610224084
+    second: formulas_51
+  - first:
+      213: 5571622991077893949
+    second: formulas_52
+  - first:
+      213: -5887256633155256992
+    second: formulas_53
+  - first:
+      213: -6142357358183998572
+    second: formulas_54
+  - first:
+      213: 8380300706573241192
+    second: formulas_55
+  - first:
+      213: 7759663383513569443
+    second: formulas_56
+  - first:
+      213: 8817763333303223003
+    second: formulas_57
+  - first:
+      213: 1486333577894747260
+    second: formulas_58
+  - first:
+      213: 5539578480012249174
+    second: formulas_59
+  - first:
+      213: 8051606894045681614
+    second: formulas_60
+  - first:
+      213: 5564488902830905849
+    second: formulas_61
+  - first:
+      213: -1510730736319200411
+    second: formulas_62
+  - first:
+      213: 5165847838952699595
+    second: formulas_63
+  - first:
+      213: 226684587233526094
+    second: formulas_64
+  - first:
+      213: 6348646550831998004
+    second: formulas_65
+  - first:
+      213: 4003741679729164754
+    second: formulas_66
+  - first:
+      213: 7955146945790657313
+    second: formulas_67
+  - first:
+      213: 8891170785634754574
+    second: formulas_68
+  - first:
+      213: -5597557696197776072
+    second: formulas_69
+  - first:
+      213: -3307489937346103723
+    second: formulas_70
+  - first:
+      213: -3740047955570836955
+    second: formulas_71
+  - first:
+      213: -480973954456648804
+    second: formulas_72
+  - first:
+      213: 7142598749513917987
+    second: formulas_73
+  - first:
+      213: 1529511819009203930
+    second: formulas_74
+  - first:
+      213: 3716334609707022655
+    second: formulas_75
+  - first:
+      213: 141102385267632539
+    second: formulas_76
+  - first:
+      213: 3815843121217295090
+    second: formulas_77
+  - first:
+      213: -135725896303259929
+    second: formulas_78
+  - first:
+      213: 3187915936055922529
+    second: formulas_79
+  - first:
+      213: -4307256803733719346
+    second: formulas_80
+  - first:
+      213: 7885724400199619058
+    second: formulas_81
+  - first:
+      213: -2447726727386588359
+    second: formulas_82
+  - first:
+      213: 845171531592112034
+    second: formulas_83
+  - first:
+      213: 5646580812192861636
+    second: formulas_84
+  - first:
+      213: -985536335245133566
+    second: formulas_85
+  - first:
+      213: 4789106641828823351
+    second: formulas_86
+  - first:
+      213: -3848565126266967907
+    second: formulas_87
+  - first:
+      213: 9187293200110158244
+    second: formulas_88
+  - first:
+      213: -8957160837225991965
+    second: formulas_89
+  - first:
+      213: 4263591904306682775
+    second: formulas_90
+  - first:
+      213: 955136099550674421
+    second: formulas_91
+  - first:
+      213: -4202624800173750289
+    second: formulas_92
+  - first:
+      213: 6275482668342338308
+    second: formulas_93
+  - first:
+      213: 168789038068136252
+    second: formulas_94
+  - first:
+      213: -4576080817764684147
+    second: formulas_95
+  - first:
+      213: -6967016938296215309
+    second: formulas_96
+  - first:
+      213: 3352291185583140605
+    second: formulas_97
+  - first:
+      213: 5407680172869860327
+    second: formulas_98
+  - first:
+      213: 8605454346790579375
+    second: formulas_99
+  - first:
+      213: -3746123716026124252
+    second: formulas_100
+  - first:
+      213: 6734682552396870971
+    second: formulas_101
+  - first:
+      213: -4633160879184670446
+    second: formulas_102
+  - first:
+      213: -845385797808981670
+    second: formulas_103
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: formulas_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 366
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdee5c38417e29a439f7aff4dfe9b6aa
+      internalID: -6204717489338392970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 370
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad58ea97c32736f43a2b390ab0d0adac
+      internalID: 6619778282771849184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 366
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c90370f83d78c46ac99a4a84416b3e
+      internalID: 7956690877699451044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 374
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee70e1c61373ec3449d6cb59e897cb4c
+      internalID: 7382845306064543816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 370
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e487e86a9ee4949469cc638d1036897c
+      internalID: 6493572347696153216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 328
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286042a760af72d41834bfacebcd4e47
+      internalID: -8233375999979478230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 332
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62577329141093c4b88157dadc077ba1
+      internalID: -2300131694695254065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 328
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12b285c0f3786c46a726d7544e4d8ce
+      internalID: -5150673440248525962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 343
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b92d5a90f7142249b84009079b3b099
+      internalID: 7313639445998740433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 332
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0753dc02e35944093872c11b0e3f45
+      internalID: 9212225756727784030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 290
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6218fb8ad42bac43be057d608b465cf
+      internalID: -3212724866998763608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 294
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77decc2cd0c23354aa512857c53adc5c
+      internalID: -7809846064710959475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 294
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689339b428a6a524ba5b1e24f2c912de
+      internalID: 2091314623391848496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 290
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f659133ad390f54f9ca0477f999e503
+      internalID: -39888842962480643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 305
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e8f9c24dd0fea43abac1300ca63aa5
+      internalID: 5466267064668274007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 294
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babdf1bbda8625f448bacccddb5de106
+      internalID: 5053567682006336456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 289
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20658d2de0bfc6b4c984b8aac4f28549
+      internalID: -1448208554555742867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 289
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8320c728f37b4834c80ee9c5416ae7b1
+      internalID: 5725858517046183894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 304
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5865c1f61eb869c499bf0cc2cf9b558b
+      internalID: 3268716056428072896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 252
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a956a36733c0e6a4e91ee37695797e9a
+      internalID: -8613700921891674877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 256
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5bdefd3fbcd4f49a57947fa798d128
+      internalID: 6008964767180830045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e752c849901e7214f9aa841dc20fa347
+      internalID: -6926110179871378494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 252
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde768db383ac02459efc3a0ebff7ada
+      internalID: -4601713614351888137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 267
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6749bcbc2d7b32e449a12bbfcee5b261
+      internalID: -6333330689174484345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 256
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c920442c09c8a740b649beb760b55ae
+      internalID: -8406816793013795140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 252
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1331000155a1c2e42983d658e079b983
+      internalID: -2493146153973593555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_26
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 256
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04422c133edc8c243b0d628740ebbdc7
+      internalID: -832575046102432842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 252
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958a5c50c6b0f39438e731748ff0d956
+      internalID: -2424281498886417666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_28
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 267
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f5e72f898a7924e998e775d160acaa
+      internalID: 3435341017741192544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_29
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 212
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a31f46dac0fdc4c894347d217d9e72
+      internalID: 4631826768213920888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 217
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cae4d10d11eba4eb9331b9e65ec8f3
+      internalID: 6540634312818852022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 226
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd521c28ce39e946a53da41eed750ba
+      internalID: 7380273720396008539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 212
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f0d31431e73ba43bfbbd3a88294645
+      internalID: 8093350465211268798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_33
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 227
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ac76aab2ef8194485145b63d7334ba
+      internalID: 3636311298433549983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 217
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb84d49ce9c14b4c909ec1bbc7c3c1e
+      internalID: 7757646827027328523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_35
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059c50a3b1f928444a3ae611718a033f
+      internalID: -4629004485734749266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 226
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cb52628a5dd9a449269b2ca7308d13
+      internalID: 2846121565798272599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_37
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 226
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc99378d66b35946ba7813132a53aee
+      internalID: -2361124126272395920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_38
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 175
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71685653ce86cfa4d978164c6e1ce85f
+      internalID: -8173809436961844498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_39
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 179
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6e9f7922d241944b8a33bb65476d82
+      internalID: -7327766160522246502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 188
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210e4ec6ef5c91046bb3337cb9f4e43a
+      internalID: -5011984300213053675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_41
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 175
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6638aa3f72479409d8ec497fdd9f48
+      internalID: -3141529429125133639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_42
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 190
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a6ada9e7807e24bb514b9cc4aa284d
+      internalID: -8955327019605282645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_43
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 175
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185ba185ab96fa64abba05d909a7cb7a
+      internalID: 3452088371997392212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 179
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46ba4516e25dbe4ba03bfa630f66df9
+      internalID: 8763369118992893379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 175
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6788853aa2048344e83e1e69f2e187df
+      internalID: -3721406275137157733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_46
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 190
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a843bc62d0f4984394a0ae61a44b269
+      internalID: -2399159265749560144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 179
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be79e2a6da6c3147b423ebe556ae356
+      internalID: 7584718220252688219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_48
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 188
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ba5213219a8f44ea4f96995e8562e6
+      internalID: 3063013897029815668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_49
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 188
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed84e3f98f537444a2007de54d24459
+      internalID: 1432599192705931501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_50
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 179
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1673b5e5950e59341b7240aac14989a7
+      internalID: 1154698692893159792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_51
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 136
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60ee9d9d2bff034ba47de96db27d636
+      internalID: -6009075491610224084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_52
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 141
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824427d5704a00c4297ce2da8124f090
+      internalID: 5571622991077893949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_53
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 150
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6720432fadb66514a8e07dc9b2c19f92
+      internalID: -5887256633155256992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 136
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7239b98dba02531439ab795d97e2d264
+      internalID: -6142357358183998572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_55
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 151
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70999617708692a46b7edcd150256603
+      internalID: 8380300706573241192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_56
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 141
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65cda9b02c0bd74782debbb142451a3
+      internalID: 7759663383513569443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_57
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 150
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138d6b3e4babf6a4aa432d9aa298609e
+      internalID: 8817763333303223003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_58
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 99
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5114fb0c98887db46a92cc258a745f9b
+      internalID: 1486333577894747260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_59
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 112
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97787d6e1ff98f40955d3fc3671b173
+      internalID: 5539578480012249174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 99
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5359ec86785a4ff44b4a524ff412fa87
+      internalID: 8051606894045681614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_61
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 114
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67efa8ebcb3ca6e4181625a8494c1e30
+      internalID: 5564488902830905849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 114
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96115405df15d124a80928bbde062265
+      internalID: -1510730736319200411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_63
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 112
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e50a98261703b47b36c5ceb5def814
+      internalID: 5165847838952699595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_64
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 103
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bf16b983112524eb457368a35a62a7
+      internalID: 226684587233526094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_65
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 103
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c91aff716839641922c198ab52845d
+      internalID: 6348646550831998004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_66
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 103
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81761894ca37691478efe761c4f47dd8
+      internalID: 4003741679729164754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_67
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 61
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a33789c9dc763842876f0a91022d242
+      internalID: 7955146945790657313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_68
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 74
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8e97a60a150db4c9ff4fb7cf0d9a75
+      internalID: 8891170785634754574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_69
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 61
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddc3422292f81b4cbb8e0164bb48a44
+      internalID: -5597557696197776072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_70
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 76
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cd6013ab61bcd4280624a65d9af491
+      internalID: -3307489937346103723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_71
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 74
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf4c18d6af9a3c43aa6b3e2c2445c6e
+      internalID: -3740047955570836955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_72
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 65
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b99b8a8f83864d4cadb73a06b5771ef
+      internalID: -480973954456648804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_73
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 60
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0fb2c05e3e0dd4e94962ca5240f148
+      internalID: 7142598749513917987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_74
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 60
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d118c20cd49aaba42aac03e7453a4347
+      internalID: 1529511819009203930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_75
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 75
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b55e9b4bd25af646a04022a22ad3bf1
+      internalID: 3716334609707022655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_76
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 65
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a417c8edd408d940a1b7dd50c0d75c7
+      internalID: 141102385267632539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_77
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 65
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ec065f162637d4ebd136a5bdba4280
+      internalID: 3815843121217295090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_78
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 65
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8378f703a8f258546ac9b893c914208d
+      internalID: -135725896303259929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_79
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 65
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9654c7b300a9ceb45a145f9681d6132e
+      internalID: 3187915936055922529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_80
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 65
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d09fde1aee9b840b16880a127555a4
+      internalID: -4307256803733719346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_81
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 23
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6024d6b5cd16424b8a5326a9bf3ca72
+      internalID: 7885724400199619058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_82
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4ef62922bfea84eb003e2676d687d3
+      internalID: -2447726727386588359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_83
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 23
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f904e2d4ec9186e4f8dbbaaa27ba9e6d
+      internalID: 845171531592112034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_84
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 38
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95890f58b136d97409d1cba642d6b4bf
+      internalID: 5646580812192861636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_85
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 36
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd6e09e55c1ecd4db0c159601e845ed
+      internalID: -985536335245133566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_86
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 27
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d167e238ddd4368439c223fac78b2be6
+      internalID: 4789106641828823351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 23
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9c8456b5d8b7341bff3b18a0a805b3
+      internalID: -3848565126266967907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_88
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 23
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39f8651c96071d42a209f3fd9109f40
+      internalID: 9187293200110158244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_89
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 38
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f824e3d2af71a9f4a9838905e8e6d8b5
+      internalID: -8957160837225991965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_90
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 26
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4270d2ca412c4ab41be19d346ee4396b
+      internalID: 4263591904306682775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_91
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 36
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2b881f6efc64b42ac617d21c3be1dc
+      internalID: 955136099550674421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_92
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 27
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9b827d9cfde904aba884044ead9a5c
+      internalID: -4202624800173750289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_93
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 23
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbac86cdaf13631418e31c5c9127a1fa
+      internalID: 6275482668342338308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_94
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 23
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfa9a259633294448d5844ff2262f53
+      internalID: 168789038068136252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_95
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 38
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9305ac8ba2a1fa4db3877aa2da1b719
+      internalID: -4576080817764684147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_96
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 27
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a56e9be67229d4d8b1999179ac2e8d
+      internalID: -6967016938296215309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_97
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 27
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c855f145844154db1ab66675c7f972
+      internalID: 3352291185583140605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 27
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcbae2b62fe74e4d8023f7e0249438b
+      internalID: 5407680172869860327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_99
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 27
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a455007e4726840a6b90dd8e35978f
+      internalID: 8605454346790579375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_100
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 27
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c25b7c21dcd1c4387f88e040b4819d
+      internalID: -3746123716026124252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_101
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 27
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bf9a93944d31b4bae8aca21283b7cc
+      internalID: 6734682552396870971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_102
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 27
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12064e49e472114f9725d0546543824
+      internalID: -4633160879184670446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulas_103
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 27
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c08e786d8cc7914d9a0782c033aefde
+      internalID: -845385797808981670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
